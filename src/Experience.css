@@ -1,0 +1,31 @@
+.exp-num {
+  position: absolute;
+  width: 34px;
+  height: 61px;
+  left: 135px;
+  top: 921px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 61px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.exp-year-exp {
+  position: absolute;
+  width: 97px;
+  height: 32px;
+  left: 169px;
+  top: 936px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #000000;
+}

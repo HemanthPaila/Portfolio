@@ -1,0 +1,47 @@
+.design-heading {
+  position: absolute;
+  width: 273px;
+  height: 77px;
+  left: 130px;
+  top: 466px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #000000;
+}
+.design-sub1 {
+  position: absolute;
+  width: 515px;
+  height: 39px;
+  left: 129px;
+  top: 543px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.design-sub2 {
+  position: absolute;
+  width: 399px;
+  height: 39px;
+  left: 129px;
+  top: 582px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}

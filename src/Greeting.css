@@ -1,0 +1,22 @@
+.greetings {
+  position: absolute;
+  width: 334px;
+  height: 126px;
+  left: 130px;
+  top: 238px;
+}
+.greetings-content {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 61px;
+
+  color: #000000;
+}

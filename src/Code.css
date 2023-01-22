@@ -1,0 +1,47 @@
+.code-heading {
+  position: absolute;
+  width: 266px;
+  height: 77px;
+  left: 1063px;
+  top: 311px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #000000;
+}
+.code-sub1 {
+  position: absolute;
+  width: 477px;
+  height: 39px;
+  left: 892px;
+  top: 388px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.code-sub2 {
+  position: absolute;
+  width: 499px;
+  height: 39px;
+  left: 880px;
+  top: 427px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
