@@ -1,18 +1,272 @@
 .body {
-  position: absolute;
+  /* position: absolute;
   background-color: rgb(243, 235, 13);
   height: 740px;
   width: 1515px;
-  display: inline-block;
+  display: inline-block; */
+  position: relative;
+  width: 1728px;
+  height: 1117px;
+
+  background-color: #ffab09;
 }
 .main-body {
-  background-color: rgb(255, 255, 255);
+  /* background-color: rgb(255, 255, 255);
   height: 690px;
   width: 1000px;
   display: inline-block;
   position: relative;
   left: 257.5px;
-  top: 50px;
+  top: 50px; */
+  position: absolute;
+  width: 1360px;
+  height: 1077px;
+  left: 153px;
+  top: 40px;
+
+  background: #ffffff;
+}
+/* .navbar {
+  position: absolute;
+  left: 9.56%;
+  right: 8.26%;
+  top: 4.09%;
+  bottom: 89.98%;
+
+  background: #ffffff;
+} */
+.app-logo {
+  position: absolute;
+  left: 11.18%;
+  right: 81.32%;
+  top: 4.55%;
+  bottom: 91.84%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.service {
+  position: absolute;
+  width: 98px;
+  height: 26px;
+  left: calc(50% - 98px / 2 + 16px);
+  bottom: 996px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+.works {
+  position: absolute;
+  left: 59.71%;
+  right: 34.11%;
+  top: 5.11%;
+  bottom: 92.67%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+.notes {
+  position: absolute;
+  left: 70.85%;
+  right: 23.46%;
+  top: 5.1%;
+  bottom: 92.68%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+.experiences {
+  position: absolute;
+  left: 81.5%;
+  right: 8.27%;
+  top: 5.1%;
+  bottom: 92.68%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+.greetings {
+  position: absolute;
+  width: 334px;
+  height: 126px;
+  left: 282px;
+  top: 238px;
+}
+.greetings-content {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 61px;
+
+  color: #000000;
+}
+.code-heading {
+  position: absolute;
+  width: 266px;
+  height: 77px;
+  left: 950px;
+  top: 311px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #000000;
+}
+.code-sub1 {
+  position: absolute;
+  width: 477px;
+  height: 39px;
+  left: 739px;
+  top: 388px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.code-sub2 {
+  position: absolute;
+  width: 499px;
+  height: 39px;
+  left: 727px;
+  top: 427px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.design-heading {
+  position: absolute;
+  width: 273px;
+  height: 77px;
+  left: 130px;
+  top: 466px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #000000;
+}
+.design-sub1 {
+  position: absolute;
+  width: 515px;
+  height: 39px;
+  left: 129px;
+  top: 543px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.design-sub2 {
+  position: absolute;
+  width: 399px;
+  height: 39px;
+  left: 129px;
+  top: 582px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.exp-num {
+  position: absolute;
+  width: 34px;
+  height: 61px;
+  left: 135px;
+  top: 921px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 61px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.exp-year-exp {
+  position: absolute;
+  width: 97px;
+  height: 32px;
+  left: 169px;
+  top: 936px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #000000;
+}
+.circle {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 727px;
+  top: 528px;
+  border-radius: 100%;
+
+  background: #fdc432;
 }
 @media (max-width: 1300px) {
   .body {
