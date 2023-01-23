@@ -3,7 +3,6 @@ import Greeting from "./Greeting";
 import Code from "./Code";
 import Design from "./Design";
 import Experience from "./Experience";
-import Circle from "./Circle";
 import "./Header.css";
 const Header = () => {
   return (
@@ -11,16 +10,15 @@ const Header = () => {
       <div className="main-body">
         {/* <div className="navbar"> */}
         <div className="app-logo">Logo</div>
-        <div className="service">SERVICE</div>
-        <div className="works">WORKS</div>
-        <div className="notes">NOTES</div>
-        <div className="experiences">EXPERIENCES</div>
+        <div className="ABOUT">ABOUT</div>
+        <div className="EDUCATION">EDUCATION</div>
+        <div className="SKILLS">SKILLS</div>
+        <div className="PROJECTS">PROJECTS</div>
         <Greeting />
         <Code />
         <Design />
         <Experience />
       </div>
-      <Circle />
     </div>
   );
 };

@@ -1,46 +1,25 @@
 .body {
-  /* position: absolute;
-  background-color: rgb(243, 235, 13);
-  height: 740px;
-  width: 1515px;
-  display: inline-block; */
   position: relative;
-  width: 1688px;
-  height: 1117px;
+  width: 1518px;
+  height: 740px;
 
-  background-color: #ffab09;
+  background: #ffab09;
 }
 .main-body {
-  /* background-color: rgb(255, 255, 255);
-  height: 690px;
-  width: 1000px;
-  display: inline-block;
-  position: relative;
-  left: 257.5px;
-  top: 50px; */
   position: absolute;
   width: 1360px;
-  height: 1077px;
-  left: 153px;
+  height: 700px;
+  left: 79px;
   top: 40px;
 
   background: #ffffff;
 }
-/* .navbar {
-  position: absolute;
-  left: 9.56%;
-  right: 8.26%;
-  top: 4.09%;
-  bottom: 89.98%;
-
-  background: #ffffff;
-} */
 .app-logo {
   position: absolute;
-  left: 11.18%;
-  right: 81.32%;
-  top: 4.55%;
-  bottom: 91.84%;
+  width: 91px;
+  height: 39px;
+  left: 119px;
+  top: 63px;
 
   font-family: "Inter";
   font-style: normal;
@@ -51,12 +30,12 @@
 
   color: #000000;
 }
-.service {
+.ABOUT {
   position: absolute;
-  width: 98px;
-  height: 26px;
-  left: calc(50% - 98px / 2 + 16px);
-  bottom: 996px;
+  width: 71px;
+  height: 24px;
+  left: 672px;
+  top: 79px;
 
   font-family: "Inter";
   font-style: normal;
@@ -66,12 +45,12 @@
 
   color: #000000;
 }
-.works {
+.EDUCATION {
   position: absolute;
-  left: 59.71%;
-  right: 34.11%;
-  top: 5.11%;
-  bottom: 92.67%;
+  width: 118px;
+  height: 24px;
+  left: 813px;
+  top: 79px;
 
   font-family: "Inter";
   font-style: normal;
@@ -81,12 +60,12 @@
 
   color: #000000;
 }
-.notes {
+.SKILLS {
   position: absolute;
-  left: 70.85%;
-  right: 23.46%;
-  top: 5.1%;
-  bottom: 92.68%;
+  width: 68px;
+  height: 24px;
+  left: 1001px;
+  top: 78px;
 
   font-family: "Inter";
   font-style: normal;
@@ -96,12 +75,12 @@
 
   color: #000000;
 }
-.experiences {
+.PROJECTS {
   position: absolute;
-  left: 81.5%;
-  right: 8.27%;
-  top: 5.1%;
-  bottom: 92.68%;
+  width: 106px;
+  height: 24px;
+  left: 1136px;
+  top: 78px;
 
   font-family: "Inter";
   font-style: normal;
@@ -110,67 +89,4 @@
   line-height: 24px;
 
   color: #000000;
-}
-.circle {
-  position: absolute;
-  width: 500px;
-  height: 500px;
-  left: 880px;
-  top: 528px;
-  border-radius: 100%;
-
-  background: #fdc432;
-}
-@media (max-width: 1300px) {
-  .body {
-    width: 1300px;
-    background-color: red;
-  }
-  .main-body {
-    width: 858.08px;
-    background-color: aqua;
-    left: 220.9px;
-  }
-}
-@media (max-width: 1085px) {
-  .body {
-    width: 1085px;
-    background-color: azure;
-  }
-  .main-body {
-    width: 716.16px;
-    left: 184.36px;
-    background-color: blue;
-  }
-}
-@media (max-width: 870px) {
-  .body {
-    width: 870px;
-    background-color: blanchedalmond;
-  }
-  .main-body {
-    width: 574.24px;
-    left: 147.82px;
-    background-color: blueviolet;
-  }
-}
-@media (max-width: 655px) {
-  .body {
-    width: 632px;
-    background-color: brown;
-  }
-  .main-body {
-    width: 432.3px;
-    left: 111.28px;
-    background-color: aquamarine;
-  }
-}
-@media (max-width: 600px) {
-  .body {
-    width: 480px;
-  }
-  .main-body {
-    width: 430px;
-    left: 25px;
-  }
 }
