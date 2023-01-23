@@ -1,6 +1,7 @@
 .body {
   position: relative;
-  width: 1518px;
+  /* width: 1518px; */
+  width: auto;
   height: 740px;
 
   background: #ffab09;
@@ -8,9 +9,12 @@
 .main-body {
   position: absolute;
   width: 1360px;
+  /* width: auto; */
   height: 700px;
-  left: 79px;
-  top: 40px;
+  /* left: 79px;
+  top: 40px; */
+  left: calc(50% - 1360px / 2);
+  top: calc(50% - 700px / 2 + 20px);
 
   background: #ffffff;
 }
@@ -20,7 +24,8 @@
   height: 39px;
   left: 119px;
   top: 63px;
-
+  /* left: calc(50% - 91px / 2 - 515.5px);
+  top: calc(50% - 39px / 2 - 290.5px); */
   font-family: "Inter";
   font-style: normal;
   font-weight: 600;
@@ -89,4 +94,51 @@
   line-height: 24px;
 
   color: #000000;
+}
+/* Media Query for Mobile Devices */
+@media (max-width: 480px) {
+  .body {
+    background-color: #ffab09;
+  }
+}
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
+  .body {
+    background-color: #ffab09;
+  }
+}
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .body {
+    background-color: #ffab09;
+  }
+}
+/* Media Query for Laptops and Desktops */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .body {
+    background-color: #ffab09;
+    /* width: auto; */
+  }
+  /* .main-body {
+    width: 1218.4px;
+    left: calc(50% - 1218.4px / 2);
+    top: calc(50% - 700px / 2 + 20px);
+  } */
+}
+/* Media Query for 1360PX */
+@media (max-width: 1380px) {
+  .body {
+    width: auto;
+  }
+  .main-body {
+    width: 1091.5px;
+    left: calc(50% - 1091.5px / 2);
+    top: calc(50% - 700px / 2 + 20px);
+  }
+}
+/* Media Query for Large screens */
+@media (min-width: 1281px) {
+  .body {
+    background-color: #ffab09;
+  }
 }
