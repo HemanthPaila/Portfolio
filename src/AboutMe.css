@@ -1,0 +1,167 @@
+.body1 {
+  position: relative;
+  width: auto;
+  height: 700px;
+
+  background: #ffab09;
+}
+.main-body1 {
+  /* position: absolute;
+  width: 1360px;
+  height: 700px;
+  left: 79px;
+  top: 0px; */
+  position: absolute;
+  width: 1360px;
+  /* width: auto; */
+  height: 700px;
+  /* left: 79px;
+  top: 40px; */
+  left: calc(50% - 1360px / 2);
+  top: calc(50% - 700px / 2 + 20px);
+
+  background: #ffffff;
+}
+.main-content {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+}
+.main-about__container {
+  position: absolute;
+  width: 131px;
+  height: 37px;
+  left: calc(50% - 131px / 2 - 499.5px);
+  top: 50px;
+}
+.about-content {
+  position: absolute;
+  left: 0%;
+  right: 12.21%;
+  top: 0%;
+  bottom: -5.41%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.about {
+  position: absolute;
+  width: 667px;
+  height: 236px;
+  left: 115px;
+  top: 114px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+}
+.person-img {
+  position: absolute;
+  width: 468px;
+  height: 263px;
+  left: 849px;
+  top: 87px;
+
+  background: #fbc252;
+}
+.experience-img {
+  position: absolute;
+  width: 468px;
+  height: 298px;
+  left: 115px;
+  top: 387px;
+
+  background: #fbc252;
+}
+.exp-heading {
+  position: absolute;
+  width: 200px;
+  height: 39px;
+  left: 656px;
+  top: 387px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.exp-content {
+  position: absolute;
+  width: 634px;
+  height: 228px;
+  left: 656px;
+  top: 457px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+}
+/* Media Query for Mobile Devices */
+@media (max-width: 480px) {
+  .body1 {
+    background-color: #ffab09;
+  }
+}
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
+  .body1 {
+    background-color: #ffab09;
+  }
+}
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .body1 {
+    background-color: #ffab09;
+  }
+}
+/* Media Query for Laptops and Desktops */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .body1 {
+    background-color: #ffab09;
+    /* width: auto; */
+  }
+  /* .main-body {
+    width: 1218.4px;
+    left: calc(50% - 1218.4px / 2);
+    top: calc(50% - 700px / 2 + 20px);
+  } */
+}
+/* Media Query for 1360PX */
+@media (max-width: 1380px) {
+  .body1 {
+    width: auto;
+  }
+  .main-body1 {
+    width: 1091.5px;
+    left: calc(50% - 1091.5px / 2);
+    top: calc(50% - 700px / 2 + 20px);
+  }
+}
+/* Media Query for Large screens */
+@media (min-width: 1281px) {
+  .body1 {
+    background-color: #ffab09;
+  }
+}

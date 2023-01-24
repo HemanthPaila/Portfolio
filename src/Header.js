@@ -8,7 +8,6 @@ const Header = () => {
   return (
     <div className="body">
       <div className="main-body">
-        {/* <div className="navbar"> */}
         <div className="app-logo">Logo</div>
         <div className="ABOUT">ABOUT</div>
         <div className="EDUCATION">EDUCATION</div>
