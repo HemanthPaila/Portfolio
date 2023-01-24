@@ -20,3 +20,8 @@
 
   color: #000000;
 }
+@media (max-width: 1380px) {
+  .greetings {
+    left: 108.18px;
+  }
+}

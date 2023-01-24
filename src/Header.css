@@ -131,9 +131,24 @@
     width: auto;
   }
   .main-body {
-    width: 1091.5px;
-    left: calc(50% - 1091.5px / 2);
+    width: 1218.44px;
+    left: calc(50% - 1218.44px / 2);
     top: calc(50% - 700px / 2 + 20px);
+  }
+  .app-logo {
+    left: 108.18px;
+  }
+  .ABOUT {
+    left: 783.63px;
+  }
+  .EDUCATION {
+    left: 750px;
+  }
+  .PROJECTS {
+    left: 1073px;
+  }
+  .SKILLS {
+    left: 938px;
   }
 }
 /* Media Query for Large screens */

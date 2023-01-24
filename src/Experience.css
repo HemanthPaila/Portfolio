@@ -29,3 +29,11 @@
 
   color: #000000;
 }
+@media (max-width: 1380px) {
+  .exp-num {
+    left: 108.18px;
+  }
+  .exp-year-exp {
+    left: 139.09px;
+  }
+}

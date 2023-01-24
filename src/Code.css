@@ -45,3 +45,14 @@
 
   color: #000000;
 }
+@media (max-width: 1380px) {
+  .code-heading {
+    left: 887.27px;
+  }
+  .code-sub1 {
+    left: 754.54px;
+  }
+  .code-sub2 {
+    left: 754.54px;
+  }
+}
