@@ -1,0 +1,67 @@
+.body2 {
+  position: relative;
+  width: auto;
+  height: 700px;
+
+  background: #ffab09;
+}
+.main-body2 {
+  /* position: absolute;
+  width: 1360px;
+  height: 700px;
+  left: 79px;
+  top: 0px; */
+  position: absolute;
+  width: 1360px;
+  /* width: auto; */
+  height: 700px;
+  /* left: 79px;
+  top: 40px; */
+  left: calc(50% - 1360px / 2);
+  top: calc(50% - 700px / 2 + 20px);
+
+  background: #ffffff;
+}
+.edu-hd {
+  position: absolute;
+  width: 237px;
+  height: 58px;
+  left: 561px;
+  top: 32px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.tenth {
+  position: absolute;
+  width: 366px;
+  height: 286px;
+  left: 189px;
+  top: 207px;
+
+  background: #fff6c3;
+}
+.btech {
+  position: absolute;
+  width: 807px;
+  height: 373px;
+  left: calc(50% - 807px / 2 + 16.5px);
+  top: calc(50% - 373px / 2 - 0.5px);
+
+  background: #a3bb98;
+}
+.inter {
+  position: absolute;
+  width: 366px;
+  height: 286px;
+  left: 996px;
+  top: 207px;
+
+  background: #f0eccf;
+}
