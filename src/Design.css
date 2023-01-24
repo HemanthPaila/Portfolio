@@ -45,7 +45,7 @@
 
   color: #000000;
 }
-@media (max-width: 1380) {
+@media (max-width: 1380px) {
   .design-heading {
     left: 108.18px;
   }
