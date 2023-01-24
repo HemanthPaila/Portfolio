@@ -42,7 +42,7 @@
   position: absolute;
   width: 366px;
   height: 286px;
-  left: 189px;
+  left: 110px;
   top: 207px;
 
   background: #fff6c3;
@@ -60,8 +60,30 @@
   position: absolute;
   width: 366px;
   height: 286px;
-  left: 996px;
+  left: 917px;
   top: 207px;
 
   background: #f0eccf;
+}
+.edu-cont__container {
+  position: absolute;
+  width: 807px;
+  height: 97px;
+  left: 293px;
+  top: 565px;
+}
+.edu-cont {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
 }
