@@ -4,6 +4,9 @@ import Code from "./Code";
 import Design from "./Design";
 import Experience from "./Experience";
 import "./Header.css";
+import Project from "./Project";
+import Developer from "./Developer";
+import Social from "./Social";
 const Header = () => {
   return (
     <div className="body">
@@ -17,6 +20,9 @@ const Header = () => {
         <Code />
         <Design />
         <Experience />
+        <Project />
+        <Developer />
+        <Social />
       </div>
     </div>
   );

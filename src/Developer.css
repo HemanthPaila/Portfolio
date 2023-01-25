@@ -1,0 +1,95 @@
+.dev {
+  position: absolute;
+  width: 310px;
+  height: 77px;
+  left: 980px;
+  top: 455px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #000000;
+}
+.M {
+  position: absolute;
+  width: 32px;
+  height: 44px;
+  left: 780px;
+  top: 528px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+
+  color: #00fe0a;
+}
+.E {
+  position: absolute;
+  width: 22px;
+  height: 44px;
+  left: 815px;
+  top: 528px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.R {
+  position: absolute;
+  width: 23px;
+  height: 44px;
+  left: 845px;
+  top: 528px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+
+  color: #32fcfc;
+}
+.N {
+  position: absolute;
+  width: 28px;
+  height: 44px;
+  left: 875px;
+  top: 528px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+
+  color: #6fa31c;
+}
+.stack-dev {
+  position: absolute;
+  width: 350px;
+  height: 39px;
+  left: 910px;
+  top: 528px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}

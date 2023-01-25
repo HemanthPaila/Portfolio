@@ -68,6 +68,7 @@
   top: 87px;
 
   background: #fbc252;
+  border-radius: 20px;
 }
 .experience-img {
   position: absolute;
@@ -77,6 +78,7 @@
   top: 375px;
 
   background: #fbc252;
+  border-radius: 20px;
 }
 .exp-heading {
   position: absolute;

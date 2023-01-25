@@ -1,9 +1,9 @@
-.exp-num {
+.pro-num {
   position: absolute;
-  width: 34px;
+  width: 33px;
   height: 61px;
-  left: 119px;
-  top: 601px;
+  left: 397px;
+  top: 600px;
 
   font-family: "Inter";
   font-style: normal;
@@ -14,12 +14,12 @@
 
   color: #000000;
 }
-.exp-year-exp {
+.pro-desc {
   position: absolute;
-  width: 97px;
-  height: 32px;
-  left: 153px;
-  top: 616px;
+  width: 88px;
+  height: 39px;
+  left: 430px;
+  top: 610px;
 
   font-family: "Inter";
   font-style: normal;
@@ -28,12 +28,4 @@
   line-height: 18px;
 
   color: #000000;
-}
-@media (max-width: 1380px) {
-  .exp-num {
-    left: 108.18px;
-  }
-  .exp-year-exp {
-    left: 139.09px;
-  }
 }
