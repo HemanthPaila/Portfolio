@@ -1,7 +1,7 @@
 .skill-container {
   position: absolute;
-  left: 6.4%;
-  right: 28.31%;
+  left: 8.24%;
+  right: 28.82%;
   top: 5.71%;
   bottom: 30%;
 }
@@ -17,27 +17,28 @@
 }
 .skill-hd {
   position: absolute;
-  left: 9.8%;
-  right: 76.01%;
-  top: 7.57%;
-  bottom: 84.14%;
+  left: 34.63%;
+  right: 57.21%;
+  top: 11.57%;
+  bottom: 82.86%;
 
   font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
-  font-size: 48px;
-  line-height: 58px;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
 
-  color: #ffffff;
+  color: #060606;
 }
 .tools-container {
   position: absolute;
-  left: 73.53%;
-  right: 1.84%;
+  left: 72.87%;
+  right: 8.09%;
   top: 5.71%;
   bottom: 3.71%;
 
-  background: #72bae2;
+  background: #696dca;
   border-radius: 50px;
 }
 /* .tools {
@@ -52,9 +53,9 @@
 } */
 .coding-container {
   position: absolute;
-  left: 6.4%;
-  right: 28.31%;
-  top: 73.29%;
+  left: 8.24%;
+  right: 28.82%;
+  top: 72.29%;
   bottom: 3.71%;
 }
 .coding {
@@ -64,6 +65,6 @@
   top: 0%;
   bottom: 0%;
 
-  background: #6ba0dd;
+  background: #4036ad;
   border-radius: 50px;
 }

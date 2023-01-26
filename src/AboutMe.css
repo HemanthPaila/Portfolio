@@ -49,14 +49,14 @@
 }
 .about {
   position: absolute;
-  width: 667px;
+  width: 639px;
   height: 236px;
   left: 115px;
   top: 114px;
 
   font-family: "Inter";
   font-style: normal;
-  font-weight: 300;
+  font-weight: 200;
   font-size: 24px;
   line-height: 29px;
 
@@ -66,7 +66,7 @@
   position: absolute;
   width: 468px;
   height: 263px;
-  left: 849px;
+  left: 500px;
   top: 87px;
 
   background: #c0eee4;
