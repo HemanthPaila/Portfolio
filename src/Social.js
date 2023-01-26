@@ -7,7 +7,7 @@ const Social = () => {
         <img src="./images/github.png" alt="error" />
       </div>
       <div className="linkedin-img">
-        <img src="./images/linkedin.png" alt="error" />
+        <img src="./images/linkedin1.png" alt="error" />
       </div>
     </div>
   );

@@ -1,0 +1,69 @@
+.skill-container {
+  position: absolute;
+  left: 6.4%;
+  right: 28.31%;
+  top: 5.71%;
+  bottom: 30%;
+}
+.skills {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #7892c7;
+  border-radius: 50px;
+}
+.skill-hd {
+  position: absolute;
+  left: 9.8%;
+  right: 76.01%;
+  top: 7.57%;
+  bottom: 84.14%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+
+  color: #ffffff;
+}
+.tools-container {
+  position: absolute;
+  left: 73.53%;
+  right: 1.84%;
+  top: 5.71%;
+  bottom: 3.71%;
+
+  background: #72bae2;
+  border-radius: 50px;
+}
+/* .tools {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #72bae2;
+  border-radius: 50px;
+} */
+.coding-container {
+  position: absolute;
+  left: 6.4%;
+  right: 28.31%;
+  top: 73.29%;
+  bottom: 3.71%;
+}
+.coding {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #6ba0dd;
+  border-radius: 50px;
+}
