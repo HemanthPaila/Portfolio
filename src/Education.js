@@ -4,11 +4,10 @@ const Education = () => {
   return (
     <div className="body2">
       <div className="main-body2">
-        <div className="edu-container">
-          <div className="edu-heading">EDUCATION</div>
-        </div>
-        <div className="spec-container"></div>
-        <div className="spec-container1"></div>
+        <div className="pro-hd">PROJECTS</div>
+        <div className="pro-1"></div>
+        <div className="pro-2"></div>
+        <div className="pro-3"></div>
       </div>
     </div>
   );

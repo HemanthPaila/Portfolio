@@ -9,8 +9,8 @@ function App() {
     <div>
       <Header />
       <AboutMe />
-      <Education />
       <Skills />
+      <Education />
       <Fotter />
     </div>
   );

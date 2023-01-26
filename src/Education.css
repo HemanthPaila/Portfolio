@@ -11,22 +11,12 @@
   left: calc(50% - 1360px / 2);
   background: #ffffff;
 }
-.edu-container {
+.pro-hd {
   position: absolute;
-  width: 713px;
-  height: 344px;
-  left: 113px;
-  top: 41px;
-
-  background: #c0eee4;
-  border-radius: 50px;
-}
-.edu-heading {
-  position: absolute;
-  width: 192px;
+  width: 173px;
   height: 39px;
-  left: 80px;
-  top: 50px;
+  left: 120px;
+  top: 31px;
 
   font-family: "Inter";
   font-style: normal;
@@ -35,25 +25,35 @@
   line-height: 39px;
   /* identical to box height */
 
-  color: #ffffff;
+  color: #000000;
 }
-.spec-container {
+.pro-1 {
   position: absolute;
-  width: 410px;
-  height: 344px;
-  left: 849px;
-  top: 41px;
+  width: 350px;
+  height: 569px;
+  left: 120px;
+  top: 94px;
 
-  background: #72bae2;
+  background: #d9d9d9;
   border-radius: 50px;
 }
-.spec-container1 {
+.pro-2 {
   position: absolute;
-  width: 1147px;
-  height: 228px;
-  left: 112px;
-  top: 410px;
+  width: 350px;
+  height: 569px;
+  left: 493px;
+  top: 94px;
 
-  background: #6ba0dd;
+  background: #d9d9d9;
+  border-radius: 50px;
+}
+.pro-3 {
+  position: absolute;
+  width: 350px;
+  height: 569px;
+  left: 866px;
+  top: 94px;
+
+  background: #d9d9d9;
   border-radius: 50px;
 }
