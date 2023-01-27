@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import AboutMe from "./AboutMe";
-import Education from "./Education";
+import Projects from "./Projects";
 import Skills from "./Skills";
 import Fotter from "./Fotter";
 function App() {
@@ -10,7 +10,7 @@ function App() {
       <Header />
       <AboutMe />
       <Skills />
-      <Education />
+      <Projects />
       <Fotter />
     </div>
   );

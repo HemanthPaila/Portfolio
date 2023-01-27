@@ -1,0 +1,152 @@
+.body2 {
+  position: relative;
+  width: auto;
+  height: 700px;
+  background: #ffab09;
+}
+.main-body2 {
+  position: absolute;
+  width: 1360px;
+  height: 700px;
+  left: calc(50% - 1360px / 2);
+  background: #ffffff;
+}
+.pro-hd {
+  position: absolute;
+  width: 173px;
+  height: 39px;
+  left: 120px;
+  top: 31px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.pro-1__img {
+  position: absolute;
+  width: 302px;
+  height: 152px;
+  left: 120px;
+  top: 120px;
+
+  background: #44b3c2;
+  border-radius: 20px;
+}
+.pro-1__hd {
+  position: absolute;
+  width: 260px;
+  height: 29px;
+  left: 460px;
+  top: 120px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.pro-1__desc {
+  position: absolute;
+  width: 772px;
+  height: 75px;
+  left: 460px;
+  top: 162px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+  line-height: 16px;
+
+  color: #000000;
+}
+.pro-2__img {
+  position: absolute;
+  width: 302px;
+  height: 152px;
+  left: 120px;
+  top: 316px;
+
+  background: #44b3c2;
+  border-radius: 20px;
+}
+.pro-2__hd {
+  position: absolute;
+  width: 219px;
+  height: 29px;
+  left: 460px;
+  top: 316px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.pro-2__desc {
+  position: absolute;
+  width: 772px;
+  height: 75px;
+  left: 460px;
+  top: 362px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+  line-height: 16px;
+
+  color: #000000;
+}
+.pro-3__img {
+  position: absolute;
+  width: 302px;
+  height: 152px;
+  left: 120px;
+  top: 512px;
+
+  background: #44b3c2;
+  border-radius: 20px;
+}
+.pro-3__hd {
+  position: absolute;
+  width: 180px;
+  height: 29px;
+  left: 460px;
+  top: 512px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.pro-3__desc {
+  position: absolute;
+  width: 772px;
+  height: 75px;
+  left: 460px;
+  top: 558px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+  line-height: 16px;
+
+  color: #000000;
+}
