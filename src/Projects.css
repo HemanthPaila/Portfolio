@@ -20,7 +20,7 @@
 
   font-family: "Inter";
   font-style: normal;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 32px;
   line-height: 39px;
   /* identical to box height */
@@ -30,7 +30,7 @@
 .pro-1__img {
   position: absolute;
   width: 302px;
-  height: 152px;
+  height: 162px;
   left: 120px;
   top: 120px;
 
@@ -63,15 +63,15 @@
   font-family: "Inter";
   font-style: normal;
   font-weight: 200;
-  font-size: 15px;
-  line-height: 16px;
+  font-size: 24px;
+  line-height: 29px;
 
   color: #000000;
 }
 .pro-2__img {
   position: absolute;
   width: 302px;
-  height: 152px;
+  height: 162px;
   left: 120px;
   top: 316px;
 
@@ -104,15 +104,15 @@
   font-family: "Inter";
   font-style: normal;
   font-weight: 200;
-  font-size: 15px;
-  line-height: 16px;
+  font-size: 24px;
+  line-height: 29px;
 
   color: #000000;
 }
 .pro-3__img {
   position: absolute;
   width: 302px;
-  height: 152px;
+  height: 162px;
   left: 120px;
   top: 512px;
 
@@ -145,8 +145,8 @@
   font-family: "Inter";
   font-style: normal;
   font-weight: 200;
-  font-size: 15px;
-  line-height: 16px;
+  font-size: 24px;
+  line-height: 29px;
 
   color: #000000;
 }
