@@ -30,23 +30,23 @@
 .pro-1__img {
   position: absolute;
   width: 302px;
-  height: 162px;
-  left: 120px;
-  top: 120px;
+  height: 163px;
+  left: 960px;
+  top: 118px;
 
-  background: #44b3c2;
+  background: #c0eee4;
   border-radius: 20px;
 }
 .pro-1__hd {
   position: absolute;
-  width: 260px;
+  width: 258px;
   height: 29px;
-  left: 460px;
-  top: 120px;
+  left: 120px;
+  top: 118px;
 
   font-family: "Inter";
   font-style: normal;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 24px;
   line-height: 29px;
   /* identical to box height */
@@ -57,7 +57,7 @@
   position: absolute;
   width: 772px;
   height: 75px;
-  left: 460px;
+  left: 120px;
   top: 162px;
 
   font-family: "Inter";
@@ -71,23 +71,23 @@
 .pro-2__img {
   position: absolute;
   width: 302px;
-  height: 162px;
+  height: 163px;
   left: 120px;
   top: 316px;
 
-  background: #44b3c2;
+  background: #c0eee4;
   border-radius: 20px;
 }
 .pro-2__hd {
   position: absolute;
-  width: 219px;
+  width: 216px;
   height: 29px;
   left: 460px;
   top: 316px;
 
   font-family: "Inter";
   font-style: normal;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 24px;
   line-height: 29px;
   /* identical to box height */
@@ -112,23 +112,23 @@
 .pro-3__img {
   position: absolute;
   width: 302px;
-  height: 162px;
-  left: 120px;
-  top: 512px;
+  height: 163px;
+  left: 960px;
+  top: 479px;
 
-  background: #44b3c2;
+  background: #c0eee4;
   border-radius: 20px;
 }
 .pro-3__hd {
   position: absolute;
   width: 180px;
   height: 29px;
-  left: 460px;
-  top: 512px;
+  left: 120px;
+  top: 514px;
 
   font-family: "Inter";
   font-style: normal;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 24px;
   line-height: 29px;
   /* identical to box height */
@@ -139,7 +139,7 @@
   position: absolute;
   width: 772px;
   height: 75px;
-  left: 460px;
+  left: 120px;
   top: 558px;
 
   font-family: "Inter";

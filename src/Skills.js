@@ -3,7 +3,9 @@ import "./Skills.css";
 const Skills = () => {
   return (
     <div className="body2">
-      <div className="main-body2"></div>
+      <div className="main-body2">
+        <div className="connect-hd">CONNECT</div>
+      </div>
     </div>
   );
 };

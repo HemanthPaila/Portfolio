@@ -1,0 +1,16 @@
+.connect-hd {
+  position: absolute;
+  width: 173px;
+  height: 39px;
+  left: 120px;
+  top: 31px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
