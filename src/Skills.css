@@ -1,9 +1,9 @@
-.connect-hd {
+.education-hd {
   position: absolute;
-  width: 173px;
-  height: 39px;
-  left: 120px;
-  top: 31px;
+  left: 8.6%;
+  right: 79.78%;
+  top: 7.43%;
+  bottom: 87%;
 
   font-family: "Inter";
   font-style: normal;
@@ -11,6 +11,23 @@
   font-size: 32px;
   line-height: 39px;
   /* identical to box height */
+
+  color: #000000;
+  text-decoration: underline;
+  text-decoration-color: aquamarine;
+}
+.sub-hd {
+  position: absolute;
+  left: 8.6%;
+  right: 82.87%;
+  top: 13%;
+  bottom: 83.57%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
 
   color: #000000;
 }

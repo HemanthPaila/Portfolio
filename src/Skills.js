@@ -4,7 +4,8 @@ const Skills = () => {
   return (
     <div className="body2">
       <div className="main-body2">
-        <div className="connect-hd">CONNECT</div>
+        <div className="education-hd">Education</div>
+        <div className="sub-hd">STUDIED AT</div>
       </div>
     </div>
   );
