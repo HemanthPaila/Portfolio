@@ -1,0 +1,16 @@
+.fotter-hd {
+  position: absolute;
+  left: 8.01%;
+  right: 78.01%;
+  top: 3.86%;
+  bottom: 90.57%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
